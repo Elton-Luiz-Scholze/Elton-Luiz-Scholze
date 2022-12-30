@@ -54,13 +54,12 @@
   </a>
 </p>
 <br>
-
-<div border:"solid 1px red">
+<div>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elton-luiz-scholze&show_icons=true&theme=dracula&locale=en&layout=compact" alt ="elton-luiz-scholze" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elton-luiz-scholze&show_icons=true&theme=dracula&locale=en&layout=compact" alt ="elton-luiz-scholze" width="40%"/>
   </p>
 
   <p> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=elton-luiz-scholze&show_icons=true&theme=dracula&locale=en" alt="elton-luiz-scholze"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=elton-luiz-scholze&show_icons=true&theme=dracula&locale=en" alt="elton-luiz-scholze" width="40%"/>
   </p>
 </div>
