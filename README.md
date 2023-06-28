@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo Elton</h1>
-<h3 align="center">Um Desenvolvedor Web Full Stack em formação</h3><br>
+<h3 align="center">Um Desenvolvedor Web Full Stack</h3><br>
 
   - 🌱 No momento estou aprendendo **Next.js e Nest**
 
